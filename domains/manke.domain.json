@@ -1,0 +1,17 @@
+{
+    
+
+    "domain": "is-not-a.dev",
+    "subdomain": "manke",
+
+    "owner": {
+        "repo": "https://github.com/roximanke",
+        "email": "adamdavidmanke@gmail.com",
+    },
+
+    "record": {
+        "CNAME": "roximanke.github.io",
+    },
+
+    "proxied": false
+}
